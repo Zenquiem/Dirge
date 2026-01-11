@@ -20,8 +20,5 @@ Yb,  88       `8b,
                                       `8, ,8I          
                                        `Y8P"           
 </pre>
-
-
-*Singing the final song for the vulnerable.*
-
+<em>:: Singing the final song for the vulnerable. ::</em>
 </div>
