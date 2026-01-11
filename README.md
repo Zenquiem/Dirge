@@ -19,8 +19,7 @@ Yb,  88       `8b,
                                        `Y8P"           
 </pre>
 
-```diff
-- :: Singing the final song for the vulnerable. ::
-- :: 为脆弱者吟唱最后的挽歌 ::
-```
+
+*Singing the final song for the vulnerable.*
+
 </div>
