@@ -1,6 +1,6 @@
 <div align="center">
-</pre>
-_______________________________________________________________
+
+<pre>
  ,gggggggggggg,                                        
 dP"""88""""""Y8b,                                      
 Yb,  88       `8b,                                     
@@ -18,5 +18,7 @@ Yb,  88       `8b,
                                       `8, ,8I          
                                        `Y8P"           
 </pre>
-<em> Singing the final song for the vulnerable. </em>
+
+<em>Singing the final song for the vulnerable.</em>
+
 </div>
