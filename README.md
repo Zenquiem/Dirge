@@ -1,7 +1,4 @@
 <div align="center">
-
-<pre>
- root@dirge:~# ./wake_up.sh
 _______________________________________________________________
  ,gggggggggggg,                                        
 dP"""88""""""Y8b,                                      
@@ -21,4 +18,5 @@ Yb,  88       `8b,
                                        `Y8P"           
 </pre>
 <em> Singing the final song for the vulnerable. </em>
+ _______________________________________________________________
 </div>
